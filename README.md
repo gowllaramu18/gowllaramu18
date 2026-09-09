@@ -1,6 +1,6 @@
 # Hi 👋, I'm GOWLLA RAMU
 
-### 🚀 Java Full Stack Developer from India
+### 🚀 Java Full Stack Developer
 
 I am a passionate Java Full Stack Developer interested in building responsive and scalable web applications.
 
